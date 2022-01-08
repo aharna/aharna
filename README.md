@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aharna&label=Profile%20views&color=0e75b6&style=flat" alt="aharna" /> </p>
 
-- 🌱 I’m currently learning **am learning everything**
+- 🌱 I’m currently learning **everything**
 
 - 📫 How to reach me **aharna.haque2003@gmail.com**
 
