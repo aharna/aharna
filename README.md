@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **aharna.haque2003@gmail.com**
 
+- 🔭 2022 goals: Contribute more to Open Source Projects
+
 - ⚡ Fun fact **I love Music and painting**
 
 <h3 align="left">Connect with me:</h3>
