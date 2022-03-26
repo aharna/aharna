@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aharna&label=Profile%20views&color=0e75b6&style=flat" alt="aharna" /> </p>
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **everything**.
 
 - 📫 How to reach me **aharna.haque2003@gmail.com** 
 
 - 🔭 2022 goals: Contribute to Open Source Projects💡
 
-- ⚡ Fun fact **I love Music and painting**
+- ⚡ Please visit my website https://aharna.github.io
 
 <h3 align="left">Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 <p align="left">
