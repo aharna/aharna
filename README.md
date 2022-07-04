@@ -1,15 +1,13 @@
-### <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aharna</h1>
-<h3 align="center">A budding <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> developer and engineer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></h3>
+### <h1 align="center">Hi , I'm Aharna</h1>
+<h3 align="center">A budding  developer and engineer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="10px"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aharna&label=Profile%20views&color=0e75b6&style=flat" alt="aharna" /> </p>
 
 - 🌱 I’m currently learning **everything**.
 
-- 📫 How to reach me **aharna.haque2003@gmail.com** 
+- 📫 reach me at **aharna.haque2003@gmail.com** 
 
-- 🔭 2022 goals: Contribute to Open Source Projects💡
-
-- ⚡ Please visit my website https://aharna.github.io
+- ⚡ Visit my website https://aharna.github.io
 
 <h3 align="left">Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 <p align="left">
@@ -24,8 +22,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aharna&show_icons=true&locale=en&layout=compact" alt="aharna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aharna&show_icons=true&locale=en" alt="aharna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aharna&" alt="aharna" /></p>
